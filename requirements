@@ -1,1 +1,7 @@
 streamlit
+openai
+serpapi
+requests
+beautifulsoup4
+python-docx
+lxml
